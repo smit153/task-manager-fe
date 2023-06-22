@@ -5,9 +5,15 @@
     {
       "src": "/images/logo.png",
       "type": "image/png",
-      "purpose": "any maskable",
+      "purpose": "maskable",
       "sizes": "1024x1024"
-    }
+    },
+    {
+        "src": "/images/logo2.png",
+        "type": "image/png",
+        "purpose": "any",
+        "sizes": "1024x1024"
+      }
   ],
   "start_url": ".",
   "display": "standalone",
